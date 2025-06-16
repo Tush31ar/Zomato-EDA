@@ -4,7 +4,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
 
 # 1. Data Cleaning and Preparation
 
-* The dataset was thoroughly pre-processed to ensure accuracy and relevance:
+ The dataset was thoroughly pre-processed to ensure accuracy and relevance:
 
   * Duplicate Removal: Identified and removed duplicates to maintain data integrity.
 
