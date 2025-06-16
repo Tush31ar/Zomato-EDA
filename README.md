@@ -1,4 +1,4 @@
-**Executive Summary: Exploratory Data Analysis of Zomato Dataset
+# Executive Summary: Exploratory Data Analysis of Zomato Dataset
 
 This report delivers a comprehensive analysis of Zomato’s restaurant data, employing various visualizations and metrics to highlight trends across location, restaurant types, service options, and cuisines. The analysis identifies key insights to inform service optimization, improve customer satisfaction, and support strategic decisions based on regional preferences.
 
