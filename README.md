@@ -6,7 +6,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
 
  The dataset was thoroughly pre-processed to ensure accuracy and relevance:
 
-  * Duplicate Removal: Identified and removed duplicates to maintain data integrity.
+ ## * Duplicate Removal: Identified and removed duplicates to maintain data integrity.
 
   * Column Adjustments: Essential columns were fixed for consistency; for example, the ratings column was reformatted to correct inconsistencies.
 
