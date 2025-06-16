@@ -2,7 +2,7 @@
 
 This report delivers a comprehensive analysis of Zomato’s restaurant data, employing various visualizations and metrics to highlight trends across location, restaurant types, service options, and cuisines. The analysis identifies key insights to inform service optimization, improve customer satisfaction, and support strategic decisions based on regional preferences.
 
-1. Data Cleaning and Preparation
+# 1. Data Cleaning and Preparation
 
 * The dataset was thoroughly pre-processed to ensure accuracy and relevance:
 
@@ -14,7 +14,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
 
 * Non-essential columns were removed, and remaining columns were renamed for clarity, providing a cleaner dataset for analysis.
 
-2. Location-Based Restaurant Density and Service Features
+# 2. Location-Based Restaurant Density and Service Features
 
 * Restaurant Density: The dataset includes a count plot of restaurants by location, helping identify areas with higher restaurant concentrations. This insight can be useful for potential market expansions or competitive analysis.
 
@@ -24,7 +24,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
 
   * For instance, certain locations show a higher percentage of restaurants with online ordering, possibly catering to a clientele that values convenience.
 
-3. Service Features in Relation to Ratings
+# 3. Service Features in Relation to Ratings
 
 * Impact of Online Ordering on Ratings: By analysing the relationship between online ordering availability and ratings, insights were drawn on customer satisfaction:
 
@@ -35,7 +35,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
   * Certain restaurant types with booking options tend to have higher ratings, indicating that pre-booking might be an important factor in customer satisfaction for these locations or types.
 
 
-4. Analysis of Restaurant Type Preferences
+# 4. Analysis of Restaurant Type Preferences
 
 * Restaurant Type vs. Ratings: The relationship between restaurant type and ratings was visualized to uncover customer preferences for various dining experiences:
 
@@ -45,7 +45,7 @@ This report delivers a comprehensive analysis of Zomato’s restaurant data, emp
 
   * This helps identify which restaurant types perform better in specific areas, offering insights into local dining preferences and informing location-specific service adjustments.
 
-5. Cuisine Analysis
+# 5. Cuisine Analysis
 
 * Top Cuisines Analysis: The analysis identifies the most popular cuisines within the dataset, shedding light on customer preferences:
 
